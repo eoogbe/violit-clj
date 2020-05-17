@@ -1,0 +1,10 @@
+*.iml
+/.cpcache/
+/.idea/
+/.shadow-cljs/
+/projectFilesBackup/
+/node_modules/
+/resources/private/
+/resources/public/js/
+/resources/public/workspaces/js/
+.DS_Store

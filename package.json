@@ -1,0 +1,35 @@
+{
+  "name": "violit",
+  "version": "0.1.0",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Eva Ogbe <eoogbe@gmail.com>",
+  "description": "An internet forum for discussion",
+  "keywords": [
+    "forum",
+    "discussion",
+    "thread",
+    "board"
+  ],
+  "scripts": {
+    "start": "shadow-cljs server"
+  },
+  "dependencies": {
+    "@js-joda/core": "1.12.0",
+    "@js-joda/locale_en-us": "^3.1.1",
+    "@popperjs/core": "^2.4.1",
+    "diff": "^4.0.2",
+    "highlight.js": "^9.12.0",
+    "js-joda": "^1.11.0",
+    "js-joda-timezone": "^2.1.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-grid-layout": "^0.16.6",
+    "react-icons": "^2.2.7",
+    "react-markdown": "^4.3.1",
+    "react-timeago": "^4.4.0",
+    "reakit": "^0.11.1",
+    "shadow-cljs": "2.8.86",
+    "xregexp": "^4.3.0"
+  }
+}
